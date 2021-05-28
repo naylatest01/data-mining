@@ -73,7 +73,7 @@ Las actividades de codificación estarán identificadas con la clave **CODE-nn**
 Implementa la operación de adición de los enteros 2 y 3
 ```{r}
 #TODO: Implementa la operación de adición con los enteros: 2 y 3
-2+3
+2+100
 ```
 
 **Notas en markdown**: El alumno escribirá las notas requeridas en las secciones anotadas con la clave **NOTE-nn**
