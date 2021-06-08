@@ -26,6 +26,7 @@ baseurl: "/data-mining" # the subpath of your site, e.g. /blog
 url: "https://marcianomoreno.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marciano_moreno
 github_username:  marcianomoreno
+repository: marcianomoreno/datamining
 
 # Build settings
 theme: jekyll-theme-tactile
